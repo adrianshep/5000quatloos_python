@@ -32,7 +32,7 @@ Python is consistently one of the most popular programming languages in the worl
 + garbage collection - used for memory management 
 + name resolution - late binding
 + large standard library - highly extensible
-+ use of white space indentation to delimit block of code
++ use of white space indentation to delimit blocks of code
 
 
 ##Our Thang
