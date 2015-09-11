@@ -26,4 +26,5 @@ Python is consistently one of the most popular programming languages in the worl
 
 ##Features:
 
-
++ dynamic typing - strongly typed
++ garbage collection - used for memory management 
