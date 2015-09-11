@@ -1,5 +1,5 @@
 # 5000quatloos_python
-teach yourself, teach us project on the sublime nature of python
+
 
 We chose Python as a subject because we like the idea of a programming language that emphasizes readability, fewer lines of code, high extensibility and the support of multiple paradigms. We became aware of Python through Blender, a long-ago Codecademy lesson and a WDI in-class exercise.
 
