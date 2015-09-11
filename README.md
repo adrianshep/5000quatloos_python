@@ -21,5 +21,5 @@ The Python community refers to van Rossum as its "Benevolent Dictator For Life,"
 
 Use:
 
-Python is consistently one of the most popular programming languages in the world. It serves as the scripting language for many web applications (such as the Apache Web Server), frameworks (such as Django), and many 3D animation packages (such as Maya).
+Python is consistently one of the most popular programming languages in the world. It serves as the scripting language for many web applications (such as the Apache Web Server), frameworks (such as Django), and many 3D animation packages (such as Maya). Many operating systems ship with Python included as a standard language. 
 
