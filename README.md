@@ -34,3 +34,11 @@ Python is consistently one of the most popular programming languages in the worl
 + large standard library - highly extensible
 + use of white space indentation to delimit block of code
 
+
+##Our Stuff
+
+There's very little one needs to run our program:
+
++ fork and clone our repository
++ cd into the 5000quatloos_python directory
++ ```$ python index.py```
