@@ -5,10 +5,10 @@ We chose Python as a subject because we liked the idea of a programming language
 
 The zen of Python is captured by these aphorisms:
 
-Beautiful is better than ugly
-Explicit is better than implicit
-Simple is better than complex
-Complex is better than complicated
-Readability counts
++ Beautiful is better than ugly
++ Explicit is better than implicit
++ Simple is better than complex
++ Complex is better than complicated
++ Readability counts
 
 
