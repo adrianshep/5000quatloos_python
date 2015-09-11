@@ -13,6 +13,6 @@ The zen of Python is captured by these aphorisms:
 
 History:
 
-The language was created by Guido van Rossum in the Netherlands at the tail end of the 1980s as a response to his dissatisfactions with the ABC programming language. van Rossum imbued Python with features that were in opposition to ABC (and other languages, such as Perl), among them having a large, standard library, and one and only one obvious way of doing things.
+The language was created by Guido van Rossum in the Netherlands at the tail end of the 1980s as a response to his dissatisfactions with the ABC programming language. van Rossum imbued Python with features that were in opposition to ABC (and other languages, such as Perl), among them having a large, standard library, and one and only one obvious way of doing things. Not insignificantly, van Rossum wanted Python to be fun to use, something that is reflected in its references to Monty Python (the language's name; the use of "spam" and "eggs" in lieu of the standard "foo" and "bar").
 
 
