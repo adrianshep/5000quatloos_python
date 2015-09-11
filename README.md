@@ -11,6 +11,7 @@ The zen of Python is captured in these aphorisms:
 + Complex is better than complicated
 + Readability counts
 
+
 History:
 
 The language was created by Guido van Rossum in the Netherlands at the tail end of the 1980s as a response to his dissatisfactions with the ABC programming language. van Rossum imbued Python with features that were in opposition to ABC (and other languages, such as Perl), giving it a large, standard library, and one (and only one) obvious way of doing things. Not insignificantly, van Rossum wanted Python to be fun to use, something that is reflected in its references to Monty Python (the language's name; the use of "spam" and "eggs" in lieu of the standard "foo" and "bar").
@@ -18,4 +19,7 @@ The language was created by Guido van Rossum in the Netherlands at the tail end 
 The Python community refers to van Rossum as its "Benevolent Dictator For Life," as he maintains an oversight role in the continuing development of the language.
 
 
+Use:
+
+Python is consistently one of the most popular programming languages in the world. It serves as the scripting language for many web applications (such as the Apache Web Server), frameworks (such as Django), and many 3D animation packages (such as Maya).
 
