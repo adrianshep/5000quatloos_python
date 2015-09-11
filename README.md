@@ -18,6 +18,8 @@ The language was created by Guido van Rossum in the Netherlands at the tail end 
 
 The Python community refers to van Rossum as its "Benevolent Dictator For Life," as he maintains an oversight role in the continuing development of the language.
 
+The Python Software Foundation (PSF), a non-profit organization, maintains the Python programming language.
+
 
 ##Use
 
@@ -30,3 +32,5 @@ Python is consistently one of the most popular programming languages in the worl
 + garbage collection - used for memory management 
 + name resolution - late binding
 + large standard library - highly extensible
++ use of white space and indentation to delimit block of code
+
