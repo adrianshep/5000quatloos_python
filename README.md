@@ -35,7 +35,7 @@ Python is consistently one of the most popular programming languages in the worl
 + use of white space indentation to delimit block of code
 
 
-##Our Stuff
+##Our Thang
 
 There's very little one needs to run our program:
 
