@@ -37,6 +37,9 @@ Python is consistently one of the most popular programming languages in the worl
 
 ##Our Thang
 
+
+Our very simple program finds and replaces all personal pronoun lower-case "i"s with upper-case "I"s in the children's literature classic "Green Eggs and Ham."  
+
 There's very little one needs to run our program:
 
 + fork and clone our repository
